@@ -19,4 +19,8 @@ export default [
     twitter: 'https://twitter.com/AsthaNayak1',
     linkedin: 'https://linkedin.com/in/astha-nayak-an2001/',
   },
+  {
+    github: 'pradhan-pk',
+    linkedin: 'https://www.linkedin.com/in/pradhan-pk/',
+  },
 ];
