@@ -7,6 +7,9 @@ import styled from 'styled-components';
 // Components
 import MemberCard from './shared/MemberCard';
 
+// Assets
+import members from '../members';
+
 const GridContainer = styled.div`
   width: 100%;
   height: 100%;
@@ -27,24 +30,12 @@ const GridContainer = styled.div`
   }
 `;
 
-const MemberGridChild = () => {
-  const members = [
-    {
-      github: 'riteshsp2000',
-      twitter: '',
-      linkedin: '',
-      portfolio: '',
-      shortDescription: '',
-    },
-  ];
-
-  return (
-    <GridContainer>
-      {members.map((member) => (
-        <MemberCard key={member.github} member={member} />
-      ))}
-    </GridContainer>
-  );
-};
+const MemberGridChild = () => (
+  <GridContainer>
+    {members.map((member) => (
+      <MemberCard key={member.github} member={member} />
+    ))}
+  </GridContainer>
+);
 
 export default MemberGridChild;

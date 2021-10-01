@@ -5,6 +5,10 @@ import styled from 'styled-components';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faLinkedin, faTwitter, faGithub } from '@fortawesome/free-brands-svg-icons';
 import { faGlobe } from '@fortawesome/free-solid-svg-icons';
+import { useQuery } from '@apollo/client';
+
+// Queries
+import getUserData from '../../graphql/getUserData';
 
 const CardContainer = styled.div`
   width: 355px;
@@ -89,11 +93,20 @@ const ThirdRow = styled.div`
 `;
 
 const MemberCard = ({ member }) => {
-  const [user] = React.useState({
-    name: 'loading',
-    img: 'https://res.cloudinary.com/dscnitrourkela/image/upload/Gitwars/xm6ww3pkeaj7kys3kvdg.png',
-    description: 'loading',
+  const { loading, error, data } = useQuery(getUserData, {
+    variables: { login: member.github },
   });
+
+  const [user] = React.useState({
+    name: loading || error ? 'loading' : data?.name,
+    img:
+      loading || error
+        ? 'https://res.cloudinary.com/dscnitrourkela/image/upload/Gitwars/xm6ww3pkeaj7kys3kvdg.png'
+        : data?.avatarUrl,
+    description: loading || error ? 'loading' : data?.bio,
+  });
+
+  console.log(data);
 
   const [stats] = React.useState([
     {
