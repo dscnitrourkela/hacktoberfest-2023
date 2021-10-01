@@ -5,4 +5,7 @@ export default [
     linkedin: 'https://linkedin.com/in/riteshsp2000',
     portfolio: 'https://riteshpatil.dev',
   },
+  {
+    github: 'padmajabhol',
+  },
 ];
