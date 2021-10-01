@@ -6,6 +6,9 @@ export default [
     portfolio: 'https://riteshpatil.dev',
   },
   {
+    github: 'padmajabhol',
+  },
+  {
     github: 'abhibhaw',
     twitter: 'https://twitter.com/imabhibhaw',
     portfolio: 'https://abhibhaw.co',
