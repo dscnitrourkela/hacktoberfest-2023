@@ -1,9 +1,9 @@
 export default [
   {
-    github: 'Ratnakar5938',
-    twitter: 'https://twitter.com/ratnakar5938',
-    linkedin: 'https://linkedin.com/in/RatnakarSahoo',
-    portfolio: '',
+    github: 'riteshsp2000',
+    twitter: 'https://twitter.com/riteshsp2000',
+    linkedin: 'https://linkedin.com/in/riteshsp2000',
+    portfolio: 'https://riteshpatil.dev',
   },
   {
     github: 'abhibhaw',
@@ -23,4 +23,8 @@ export default [
     github: 'pradhan-pk',
     linkedin: 'https://www.linkedin.com/in/pradhan-pk/',
   },
+  {
+    github: 'ratnakar5938',
+    twitter: 'https://twitter.com/ratnakar5938',
+  }
 ];
