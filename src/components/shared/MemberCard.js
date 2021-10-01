@@ -5,10 +5,7 @@ import styled from 'styled-components';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faLinkedin, faTwitter, faGithub } from '@fortawesome/free-brands-svg-icons';
 import { faGlobe } from '@fortawesome/free-solid-svg-icons';
-import { useQuery } from '@apollo/client';
-
-// Queries
-import getUserData from '../../graphql/getUserData';
+import { Octokit } from '@octokit/core';
 
 const CardContainer = styled.div`
   width: 355px;
@@ -92,23 +89,16 @@ const ThirdRow = styled.div`
   margin-top: 25px;
 `;
 
+const octokit = new Octokit({ auth: `d14e743baa4e8cafd771308c6a71d484152b2220` });
+
 const MemberCard = ({ member }) => {
-  const { loading, error, data } = useQuery(getUserData, {
-    variables: { login: member.github },
+  const [user, setUser] = React.useState({
+    name: 'loading',
+    img: 'https://res.cloudinary.com/dscnitrourkela/image/upload/Gitwars/xm6ww3pkeaj7kys3kvdg.png',
+    description: 'loading',
   });
 
-  const [user] = React.useState({
-    name: loading || error ? 'loading' : data?.name,
-    img:
-      loading || error
-        ? 'https://res.cloudinary.com/dscnitrourkela/image/upload/Gitwars/xm6ww3pkeaj7kys3kvdg.png'
-        : data?.avatarUrl,
-    description: loading || error ? 'loading' : data?.bio,
-  });
-
-  console.log(data);
-
-  const [stats] = React.useState([
+  const [stats, setStats] = React.useState([
     {
       name: 'repos',
       count: 237,
@@ -122,6 +112,70 @@ const MemberCard = ({ member }) => {
       count: 52,
     },
   ]);
+
+  React.useEffect(() => {
+    const fetchUser = async () => {
+      const { user: ghUser } = await octokit.graphql(
+        `query ($login: String!) {
+          user(login: $login) {
+            name
+            bio
+            avatarUrl
+            organizations {
+              totalCount
+            }
+            contributionsCollection {
+              totalRepositoryContributions
+              contributionCalendar {
+                colors
+                totalContributions
+              }
+            }
+          }
+        }`,
+        { login: member.github },
+      );
+      setUser({
+        name: ghUser.name,
+        description: ghUser.bio,
+        img: ghUser.avatarUrl,
+      });
+
+      setStats((current) =>
+        current.map((item) =>
+          item.name === 'commits'
+            ? {
+                name: 'commits',
+                count: ghUser.contributionsCollection.contributionCalendar.totalContributions,
+              }
+            : item,
+        ),
+      );
+
+      setStats((current) =>
+        current.map((item) =>
+          item.name === 'repos'
+            ? {
+                name: 'repos',
+                count: ghUser.contributionsCollection.totalRepositoryContributions,
+              }
+            : item,
+        ),
+      );
+      setStats((current) =>
+        current.map((item) =>
+          item.name === 'orgs'
+            ? {
+                name: 'orgs',
+                count: ghUser.organizations.totalCount,
+              }
+            : item,
+        ),
+      );
+    };
+
+    fetchUser();
+  }, [member.github]);
 
   return (
     <CardContainer>
