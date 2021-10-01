@@ -26,5 +26,5 @@ export default [
   {
     github: 'ratnakar5938',
     twitter: 'https://twitter.com/ratnakar5938',
-  }
+  },
 ];
