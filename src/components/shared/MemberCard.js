@@ -89,7 +89,7 @@ const ThirdRow = styled.div`
   margin-top: 25px;
 `;
 
-const octokit = new Octokit({ auth: `d14e743baa4e8cafd771308c6a71d484152b2220` });
+const octokit = new Octokit({ auth: process.env.REACT_APP_GITHUB_TOKEN });
 
 const MemberCard = ({ member }) => {
   const [user, setUser] = React.useState({
