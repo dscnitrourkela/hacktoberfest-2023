@@ -6,6 +6,11 @@ export default [
     portfolio: 'https://riteshpatil.dev',
   },
   {
+    github: 'abhibhaw',
+    twitter: 'https://twitter.com/imabhibhaw',
+    portfolio: 'https://abhibhaw.co',
+  },
+  {
     github: 'sp7infinity',
     linkedin: 'https://www.linkedin.com/in/subhasish-panda-3a677352/',
   },
