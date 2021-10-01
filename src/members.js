@@ -6,7 +6,7 @@ export default [
     portfolio: 'https://riteshpatil.dev',
   },
   {
-    github: 'studyroy10',
+    github: 'akash kumar roy',
     
   },
 ];
