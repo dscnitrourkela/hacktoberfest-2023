@@ -40,4 +40,8 @@ export default [
     github: 'pradhan-pk',
     linkedin: 'https://www.linkedin.com/in/pradhan-pk/',
   },
+  {
+    github: 'ratnakar5938',
+    twitter: 'https://twitter.com/ratnakar5938',
+  },
 ];
