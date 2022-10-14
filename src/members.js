@@ -46,8 +46,6 @@ export default [
   },
    {
     github: 'saffi-786',
-//     twitter: 'https://twitter.com/riteshsp2000',
     linkedin: 'https://www.linkedin.com/in/sk-saffiulla-144077195/',
-//     portfolio: 'https://riteshpatil.dev',
   },
 ];
