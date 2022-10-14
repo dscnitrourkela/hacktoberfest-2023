@@ -45,6 +45,9 @@ export default [
     twitter: 'https://twitter.com/ratnakar5938',
   },
   {
+    github: 'imswastikk',  
+    linkedin: 'https://www.linkedin.com/in/swastik-kumar-sahu-b06108227/',
+  },
     github: 'Aankirz',
     twitter: 'https://twitter.com/AnkitKiran7',
     linkedin: 'https://www.linkedin.com/in/ankit-kiran-3819b0219/',
