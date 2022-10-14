@@ -44,4 +44,8 @@ export default [
     github: 'ratnakar5938',
     twitter: 'https://twitter.com/ratnakar5938',
   },
+  {
+    github: 'SrinibasPanigrahi',
+    linkedin: 'https://linkedin.com/in/srininbas-p-91b88130',
+  }
 ];
