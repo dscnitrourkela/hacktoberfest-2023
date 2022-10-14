@@ -75,7 +75,7 @@ export default [
   {
     github: 'shantanusatpute',
     twitter: 'https://twitter.com/shantsatpute',
-    linkedin: 'https://www.linkedin.com/in/shantanu-satpute-2377481a6/,
+    linkedin: 'https://www.linkedin.com/in/shantanu-satpute-2377481a6/',
   },
   {
     github: 'anupandey1',
