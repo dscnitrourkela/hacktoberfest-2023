@@ -115,4 +115,8 @@ export default [
     twitter: 'https://twitter.com/akashp011',
     linkedin: 'https://linkedin.com/in/akashp011',
   },
+  {
+    github: 'mavrishabh',
+    linkedin: 'https://www.linkedin.com/in/rishabh-singh-358175243/',
+  },
 ];
