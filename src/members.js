@@ -45,6 +45,9 @@ export default [
     twitter: 'https://twitter.com/ratnakar5938',
   },
   {
+    github: 'lalitku-sahu',
+    linkedin: 'www.linkedin.com/in/lalit-kumar-sahu-7bba61219',
+  },
     github: 'mixel2004',
     twitter: 'https://twitter.com/nikhilj2004',
     linkedin: 'https://www.linkedin.com/in/nikhil-jaiswal-573b1722a/',
