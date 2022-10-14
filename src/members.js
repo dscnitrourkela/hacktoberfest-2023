@@ -45,6 +45,11 @@ export default [
     twitter: 'https://twitter.com/ratnakar5938',
   },
   {
+    github: 'SirSimon162',
+    twitter: 'https://twitter.com/_SirSimon_',
+    linkedin: 'https://www.linkedin.com/in/anmol-pattnayak-8134b0197/',
+    portfolio: 'https://sirsimon162.github.io/Portfolio/',
+  },
     github: 'ashimjungsaud',
     linkedin: 'https://www.linkedin.com/in/ashim-jung-saud-7a943922b/',
   },
