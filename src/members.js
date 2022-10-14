@@ -45,6 +45,11 @@ export default [
     twitter: 'https://twitter.com/ratnakar5938',
   },
   {
+    github: 'roshananduri',
+    twitter: 'https://twitter.com/RoshanAnduri',
+    linkedin: 'https://www.linkedin.com/in/roshan-a-578697115/',
+  },
+  {
     github: 'saffi-786',
     linkedin: 'https://www.linkedin.com/in/sk-saffiulla-144077195/',
   },
