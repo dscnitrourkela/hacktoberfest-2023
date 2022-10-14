@@ -44,4 +44,9 @@ export default [
     github: 'ratnakar5938',
     twitter: 'https://twitter.com/ratnakar5938',
   },
+  {
+    github: 'ayushshaw90',
+    twitter: 'https://twitter.com/ayushshaw127',
+    linkedin: 'https://www.linkedin.com/in/ayush-shaw-02a559229/',
+  },
 ];
