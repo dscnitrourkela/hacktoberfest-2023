@@ -45,6 +45,10 @@ export default [
     twitter: 'https://twitter.com/ratnakar5938',
   },
   {
+    github: 'Shucode4244',
+    twitter: 'https://twitter.com/@shubham_2550',
+    linkedin: 'https://linkedin.com/in/ShubhamSahoo',
+  },
     github: 'imswastikk',  
     linkedin: 'https://www.linkedin.com/in/swastik-kumar-sahu-b06108227/',
   },
