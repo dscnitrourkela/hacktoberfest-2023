@@ -44,4 +44,10 @@ export default [
     github: 'ratnakar5938',
     twitter: 'https://twitter.com/ratnakar5938',
   },
+    {
+    github: '8rxn',
+    twitter: 'https://twitter.com/rajxryan',
+    linkedin: 'https://linkedin.com/in/8rxn',
+    portfolio: 'https://attrxn.xyz',
+  },
 ];
