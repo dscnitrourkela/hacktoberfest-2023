@@ -44,4 +44,9 @@ export default [
     github: 'ratnakar5938',
     twitter: 'https://twitter.com/ratnakar5938',
   },
+  {
+    github: 'shantanusatpute',
+    twitter: 'https://twitter.com/shantsatpute',
+    linkedin: 'https://www.linkedin.com/in/shantanu-satpute-2377481a6/,
+  },
 ];
