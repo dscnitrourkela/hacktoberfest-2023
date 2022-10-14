@@ -123,4 +123,9 @@ export default [
     github: 'Simply-huMAN',
     linkedin:'https://www.linkedin.com/in/maloth-aditya-006/',
   },
+    {
+    github: 'durga811',
+    twitter: 'https://twitter.com/DurgaPr69825161',
+    linkedin: 'https://www.linkedin.com/in/durga-prasad-pradhan/',
+  },
 ];
