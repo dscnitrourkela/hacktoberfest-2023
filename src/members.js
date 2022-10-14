@@ -124,6 +124,11 @@ export default [
     linkedin:'https://www.linkedin.com/in/maloth-aditya-006/',
   },
   {
+    github: 'ayushshaw90',
+    twitter: 'https://twitter.com/ayushshaw127',
+    linkedin: 'https://www.linkedin.com/in/ayush-shaw-02a559229/',
+  },
+  {   
     github: 'durga811',
     twitter: 'https://twitter.com/DurgaPr69825161',
     linkedin: 'https://www.linkedin.com/in/durga-prasad-pradhan/',
@@ -148,10 +153,9 @@ export default [
 
 
   },
-    {
+  {
     github: 'Lucif3r-in',
     twitter: 'https://twitter.com/Ashutos48101482',
     linkedin: 'https://linkedin.com/in/ashutosh-rath-966176223/',
-//     portfolio: ',
   },
 ];
