@@ -48,7 +48,11 @@ export default [
     github: 'roshananduri',
     twitter: 'https://twitter.com/RoshanAnduri',
     linkedin: 'https://www.linkedin.com/in/roshan-a-578697115/',
-  }
+  },
+  {
+    github: 'saffi-786',
+    linkedin: 'https://www.linkedin.com/in/sk-saffiulla-144077195/',
+  },
   {
     github: 'b33pl0g1c',
     twitter: 'https://twitter.com/akashp011',
