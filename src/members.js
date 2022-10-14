@@ -123,4 +123,9 @@ export default [
     github: 'Simply-huMAN',
     linkedin:'https://www.linkedin.com/in/maloth-aditya-006/',
   },
+    {
+    github: 'sivasaisilla',
+    twitter: 'https://twitter.com/_siva_sai',
+    linkedin: 'https://www.linkedin.com/in/sivasaisilla/',
+  },
 ];
