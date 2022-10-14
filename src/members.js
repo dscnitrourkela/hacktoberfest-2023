@@ -171,4 +171,11 @@ export default [
     linkedin: 'https://www.linkedin.com/in/jayesh-nayak-1b7352210?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSQj6%2B9p9TPejenB%2B7eVwnw%3D%3D',
     portfolio: 'https://starkjay21.github.io/portfolio/',
   },
+  {
+    github: 'SVS-PAVAN',
+    linkedin: 'https://www.linkedin.com/in/pavan-svs-3a873a218', 
+  }, 
 ];
+
+
+
