@@ -44,4 +44,9 @@ export default [
     github: 'ratnakar5938',
     twitter: 'https://twitter.com/ratnakar5938',
   },
+  {
+    github: 'anupandey1',
+    twitter: 'https://twitter.com/Anupandey028',
+    linkedin:'https://www.linkedin.com/in/anubhuti-pandey-34b5a0225/',
+  },
 ];
