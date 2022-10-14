@@ -44,4 +44,8 @@ export default [
     github: 'ratnakar5938',
     twitter: 'https://twitter.com/ratnakar5938',
   },
+  {
+    github: 'imswastikk',  
+    linkedin: 'https://www.linkedin.com/in/swastik-kumar-sahu-b06108227/',
+  },
 ];
