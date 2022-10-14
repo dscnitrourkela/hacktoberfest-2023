@@ -119,12 +119,17 @@ export default [
     github: 'mavrishabh',
     linkedin: 'https://www.linkedin.com/in/rishabh-singh-358175243/',
   },
-   {
+  {
     github: 'Simply-huMAN',
     linkedin:'https://www.linkedin.com/in/maloth-aditya-006/',
   },
   {
+    github: 'sivasaisilla',
+    twitter: 'https://twitter.com/_siva_sai',
+    linkedin: 'https://www.linkedin.com/in/sivasaisilla/',
+  },
+  {
     github: 'SrinibasPanigrahi',
     linkedin: 'https://linkedin.com/in/srininbas-p-91b88130',
-  }
+  },
 ];
