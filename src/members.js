@@ -107,6 +107,10 @@ export default [
     linkedin: 'https://www.linkedin.com/in/roshan-a-578697115/',
   },
   {
+    github: 'B-ISWAJIT-2002',
+    linkedin: 'https://linkedin.com/in/biswajit-jena-62b33624a',
+  },
+  {
     github: 'saffi-786',
     linkedin: 'https://www.linkedin.com/in/sk-saffiulla-144077195/',
   },
