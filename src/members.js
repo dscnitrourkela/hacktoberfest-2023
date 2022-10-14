@@ -44,4 +44,10 @@ export default [
     github: 'ratnakar5938',
     twitter: 'https://twitter.com/ratnakar5938',
   },
+    {
+    github: 'Lucif3r-in',
+    twitter: 'https://twitter.com/Ashutos48101482',
+    linkedin: 'https://linkedin.com/in/ashutosh-rath-966176223/',
+//     portfolio: ',
+  },
 ];
