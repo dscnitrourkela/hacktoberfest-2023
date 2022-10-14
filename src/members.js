@@ -137,4 +137,15 @@ export default [
     github: 'SrinibasPanigrahi',
     linkedin: 'https://linkedin.com/in/srininbas-p-91b88130',
   },
+  {
+
+    github: 'MahendraSai024',
+
+    twitter: 'https://twitter.com/mahendrasai024',
+
+    linkedin: 'https://linkedin.com/in/mahendrasai024',
+
+
+
+  },
 ];
