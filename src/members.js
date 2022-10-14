@@ -45,3 +45,6 @@ export default [
     twitter: 'https://twitter.com/ratnakar5938',
   },
 ];
+{
+    github: 'ratnakar5938',
+  },
