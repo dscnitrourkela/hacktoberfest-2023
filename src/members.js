@@ -44,4 +44,8 @@ export default [
     github: 'ratnakar5938',
     twitter: 'https://twitter.com/ratnakar5938',
   },
+  {
+    github: 'lalitku-sahu',
+    linkedin: 'www.linkedin.com/in/lalit-kumar-sahu-7bba61219',
+  },
 ];
