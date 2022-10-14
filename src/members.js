@@ -44,4 +44,9 @@ export default [
     github: 'ratnakar5938',
     twitter: 'https://twitter.com/ratnakar5938',
   },
+  {
+    github: 'mixel2004',
+    twitter: 'https://twitter.com/nikhilj2004',
+    linkedin: 'https://www.linkedin.com/in/nikhil-jaiswal-573b1722a/',
+  },
 ];
