@@ -44,4 +44,10 @@ export default [
     github: 'ratnakar5938',
     twitter: 'https://twitter.com/ratnakar5938',
   },
+  {
+    github: 'Shucode4244',
+    twitter: 'https://twitter.com/@shubham_2550',
+    linkedin: 'https://linkedin.com/in/ShubhamSahoo',
+    
+  },
 ];
