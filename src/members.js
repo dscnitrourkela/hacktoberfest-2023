@@ -45,6 +45,12 @@ export default [
     twitter: 'https://twitter.com/ratnakar5938',
   },
   {
+    github: '8rxn',
+    twitter: 'https://twitter.com/rajxryan',
+    linkedin: 'https://linkedin.com/in/8rxn',
+    portfolio: 'https://attrxn.xyz',
+  },
+  {
     github: 'shantanusatpute',
     twitter: 'https://twitter.com/shantsatpute',
     linkedin: 'https://www.linkedin.com/in/shantanu-satpute-2377481a6/,
