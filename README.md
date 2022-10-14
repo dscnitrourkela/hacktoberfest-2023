@@ -8,7 +8,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/dscnitrourkela/hacktoberfest-2022">
-    <img src="images/logo.png" alt="Logo" width="130">
+    
   </a>
 
   <h3 align="center">Hacktoberfest 2022</h3>
@@ -47,14 +47,6 @@
     <li><a href="#starware">Starware</a></li>
   </ol>
 </details>
-
-## About The Project
-
-A digital and customisable frame generator for all the participants of the hackathon
-
-- The web application allows you to customise your frames with wide-range of shapes and colors.
-- On completion of the frame, upload your profile picture.
-- Download the customised frame and share it with others.
 
 ## Built With
 
