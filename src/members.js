@@ -44,4 +44,8 @@ export default [
     github: 'ratnakar5938',
     twitter: 'https://twitter.com/ratnakar5938',
   },
+   {
+    github: 'B-ISWAJIT-2002',
+    linkedin: 'https://linkedin.com/in/biswajit-jena-62b33624a',
+  },
 ];
