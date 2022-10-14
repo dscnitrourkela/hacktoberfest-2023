@@ -45,6 +45,10 @@ export default [
     twitter: 'https://twitter.com/ratnakar5938',
   },
   {
+    github: 'Aankirz',
+    twitter: 'https://twitter.com/AnkitKiran7',
+    linkedin: 'https://www.linkedin.com/in/ankit-kiran-3819b0219/',
+  },
     github: 'roshananduri',
     twitter: 'https://twitter.com/RoshanAnduri',
     linkedin: 'https://www.linkedin.com/in/roshan-a-578697115/',
