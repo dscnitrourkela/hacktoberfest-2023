@@ -158,4 +158,7 @@ export default [
     twitter: 'https://twitter.com/Ashutos48101482',
     linkedin: 'https://linkedin.com/in/ashutosh-rath-966176223/',
   },
+  {
+    github: 'Shurtu-gal',
+  },
 ];
