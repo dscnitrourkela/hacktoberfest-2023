@@ -42,7 +42,10 @@ export default [
   },
   {
     github: 'ratnakar5938',
-    twitter: 'https://twitter.com/ratnakar5938',
+    twitter: 'https://twitter.com/ratnakar5938', 
+  },
+  {
+    github: 'ishansingh07',
   },
   {
     github: 'SirSimon162',
