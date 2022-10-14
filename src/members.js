@@ -184,5 +184,9 @@ export default [
   {
     github: 'SVS-PAVAN',
     linkedin: 'https://www.linkedin.com/in/pavan-svs-3a873a218', 
-  }, 
+  },
+  {
+    github: 'https://github.com/Masq915',
+    linkedin: 'www.linkedin.com/in/ashfaq-qureshi-1023a7222',
+  },
 ];
