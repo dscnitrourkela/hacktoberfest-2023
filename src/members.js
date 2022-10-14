@@ -44,4 +44,8 @@ export default [
     github: 'ratnakar5938',
     twitter: 'https://twitter.com/ratnakar5938',
   },
+   {
+    github: 'Simply-huMAN',
+    linkedin:'https://www.linkedin.com/in/maloth-aditya-006/',
+  },
 ];
