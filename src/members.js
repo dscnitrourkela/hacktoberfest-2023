@@ -44,4 +44,8 @@ export default [
     github: 'ratnakar5938',
     twitter: 'https://twitter.com/ratnakar5938',
   },
+  {
+    github: 'ashimjungsaud',
+    linkedin: 'https://www.linkedin.com/in/ashim-jung-saud-7a943922b/',
+  },
 ];
