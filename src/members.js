@@ -45,6 +45,12 @@ export default [
     twitter: 'https://twitter.com/ratnakar5938', 
   },
   {
+    github: 'SidharthSBharadwaj247',
+    twitter: 'https://twitter.com/Sidharth_Blaze',
+    linkedin: 'https://www.linkedin.com/in/sidharth-shankar-bharadwaj-59b297249/',
+  
+  },
+  {
     github: 'prateek-10',
     linkedin: 'https://www.linkedin.com/in/prateek-kumar-nayak-72976822a',
   },
