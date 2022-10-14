@@ -123,4 +123,8 @@ export default [
     github: 'Simply-huMAN',
     linkedin:'https://www.linkedin.com/in/maloth-aditya-006/',
   },
+  {
+    github: 'SrinibasPanigrahi',
+    linkedin: 'https://linkedin.com/in/srininbas-p-91b88130',
+  }
 ];
