@@ -44,4 +44,11 @@ export default [
     github: 'ratnakar5938',
     twitter: 'https://twitter.com/ratnakar5938',
   },
+  {
+    github: 'SVS-PAVAN',
+    linkedin: 'https://www.linkedin.com/in/pavan-svs-3a873a218', 
+  }, 
 ];
+
+
+
