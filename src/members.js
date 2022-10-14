@@ -48,4 +48,21 @@ export default [
     github: 'imswastikk',  
     linkedin: 'https://www.linkedin.com/in/swastik-kumar-sahu-b06108227/',
   },
+    github: 'Aankirz',
+    twitter: 'https://twitter.com/AnkitKiran7',
+    linkedin: 'https://www.linkedin.com/in/ankit-kiran-3819b0219/',
+  },
+    github: 'roshananduri',
+    twitter: 'https://twitter.com/RoshanAnduri',
+    linkedin: 'https://www.linkedin.com/in/roshan-a-578697115/',
+  },
+  {
+    github: 'saffi-786',
+    linkedin: 'https://www.linkedin.com/in/sk-saffiulla-144077195/',
+  },
+  {
+    github: 'b33pl0g1c',
+    twitter: 'https://twitter.com/akashp011',
+    linkedin: 'https://linkedin.com/in/akashp011',
+  },
 ];
