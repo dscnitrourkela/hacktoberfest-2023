@@ -190,6 +190,9 @@ export default [
     linkedin: 'www.linkedin.com/in/ashfaq-qureshi-1023a7222',
   },
   {
+    github: 'https://github.com/Miyazaki17',
+  },
+  {
     github: 'https://github.com/Saigopu',
     linkedin: 'https://www.linkedin.com/in/amudala-gopikrishna-5247ab201/', 
   },
