@@ -46,6 +46,6 @@ export default [
   },
   {
     github: 'aman0430',
-    linkedin: 'https://www.linkedin.com/in/aman-singh-98960b246/',
+    linkedin: 'https://www.linkedin.com/in/aman-singh-98960b246',
   },
 ];
