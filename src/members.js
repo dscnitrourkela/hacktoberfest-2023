@@ -6,6 +6,11 @@ export default [
     portfolio: 'https://riteshpatil.dev',
   },
   {
+    github: 'hps5901',
+    twitter: 'https://twitter.com/hardikpratapsi3',
+    linkedin: 'https://linkedin.com/in/hardik-pratap-singh',
+  },
+  {
     github: 'kesarivenkatesh',
     linkedin: 'https://linkedin.com/in/kesarivenkatesh',
   },
