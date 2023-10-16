@@ -198,4 +198,8 @@ export default [
     github: 'https://github.com/Saigopu',
     linkedin: 'https://www.linkedin.com/in/amudala-gopikrishna-5247ab201/', 
   },
+  {
+    github: 'https://github.com/abdullahquantumx',
+    linkedin: 'https://www.linkedin.com/in/abdullah-siddiqui-243365262/', 
+  },
 ];
