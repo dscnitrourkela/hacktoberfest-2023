@@ -198,4 +198,7 @@ export default [
     github: 'https://github.com/Saigopu',
     linkedin: 'https://www.linkedin.com/in/amudala-gopikrishna-5247ab201/', 
   },
+    {
+    github: 'https://github.com/Patramanish54',
+  }
 ];
