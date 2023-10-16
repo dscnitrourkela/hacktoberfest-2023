@@ -198,4 +198,9 @@ export default [
     github: 'https://github.com/Saigopu',
     linkedin: 'https://www.linkedin.com/in/amudala-gopikrishna-5247ab201/', 
   },
+  {
+    github: 'https://github.com/coder-XX04',
+    linkedin: 'https://www.linkedin.com/in/linkedin.com/in/dhrutinandan-swain-684743231', 
+    hashnode: 'https://dhrutinandan0304.hashnode.dev/',
+  },
 ];
