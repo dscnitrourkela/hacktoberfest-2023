@@ -174,11 +174,13 @@ export default [
   },
   {
     github: 'Shurtu-gal',
+    linkedin: 'https://www.linkedin.com/in/ashish-padhy3023/',
+    portfolio: 'https://github.com/Shurtu-gal',
   },
   {
     github: 'starkjay21',
     twitter: 'https://twitter.com/starkjay_21',
-    linkedin: 'https://www.linkedin.com/in/jayesh-nayak-1b7352210?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSQj6%2B9p9TPejenB%2B7eVwnw%3D%3D',
+    linkedin: 'https://www.linkedin.com/in/jayesh-nayak-1b7352210',
     portfolio: 'https://starkjay21.github.io/portfolio/',
   },
   {
