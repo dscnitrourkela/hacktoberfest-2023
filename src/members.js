@@ -198,4 +198,9 @@ export default [
     github: 'https://github.com/Saigopu',
     linkedin: 'https://www.linkedin.com/in/amudala-gopikrishna-5247ab201/', 
   },
+  {
+    discord: 'abarpanda',
+    github: 'https://github.com/ABarpanda',
+    linkedin: 'www.linkedin.com/in/amritanshu-barpanda-37b88928b'
+  }
 ];
