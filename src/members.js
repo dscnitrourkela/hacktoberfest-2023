@@ -198,4 +198,8 @@ export default [
     github: 'https://github.com/Saigopu',
     linkedin: 'https://www.linkedin.com/in/amudala-gopikrishna-5247ab201/', 
   },
+  {
+    github: 'aman0430',
+    linkedin: 'https://www.linkedin.com/in/aman-singh-98960b246',
+  },
 ];
