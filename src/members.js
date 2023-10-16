@@ -6,6 +6,9 @@ export default [
     portfolio: 'https://riteshpatil.dev',
   },
   {
+    github:"https://github.com/Srish-ty/hacktoberfest-2023.git"
+  }
+  {
     github: 'kesarivenkatesh',
     linkedin: 'https://linkedin.com/in/kesarivenkatesh',
   },
